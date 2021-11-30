@@ -13,14 +13,14 @@ Multiple factors influence the selected minimum wage. Some of these include:
 
 We analyze this data using three visualizations
 #### 1. An interactive choropleth map which indicates the average state wages since the past 5 decades across all states. 
-![image](https://i.imgur.com/Gk4FiSB.png)
+![image](https://i.imgur.com/N0tZabM.png)
 
 #### 2. An interactive bar chart and a scatter plot that displays either the state minimum wage, federal minimum wage, or effective minimum wage for a specific year which is chosen by the user. 
-![image](https://i.imgur.com/cq8xxaY.png)
-![image](https://i.imgur.com/bQCTsC2.png)
+![image](https://i.imgur.com/6oLsaVq.png)
+![image](https://i.imgur.com/LYDrfnF.png)
 
 #### 3. Wage data exploration using a heat map which indicates the trend of specific categories of wages from 1968 to 2020 
-![image](https://i.imgur.com/gzaos7x.png)
+![image](https://i.imgur.com/Whc12AL.png)
   
 ### Running the code:
   To run the project:
