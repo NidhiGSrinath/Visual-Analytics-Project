@@ -25,7 +25,7 @@ We analyze this data using three visualizations
 ### Running the code:
   To run the project:
   > <li> Launch an IDE such as Jupyter Notebook or Visual Studio Code </li>
-  > <li> Open the folder containing the files 'Minimum_Wage_Statistics.py' and 'min_wage_data.csv' </li>
+  > <li> Open the folder containing the files 'Minimum_Wage_Statistics.py','min_wage_data.csv', and 'name_code_mapping_US.csv' </li>
   > <li> Use the command 'streamlit run pathname' (containing the Minimum_Wage_Statistics.py file) </li>
   > <li> View and interact with the visualizations on the streamlit app in your browser </li>
 
